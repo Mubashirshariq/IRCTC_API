@@ -31,7 +31,7 @@ This is a REST API for managing train bookings, including user registration, log
     npm install
     ```
 
-3. Make sure you have a PostgreSQL database set up. You can set up a local database or use a cloud-based one.
+3. Make sure you have a PostgreSQL database set up. You can set up a local database or use a cloud-based one.I have used NeonDb cloud for this specific project
 
 4. Create the necessary tables (`users`, `trains`, `bookings`) as described in the SQL schema section.
 
